@@ -1,0 +1,1 @@
+- [Learn PowerShell with Active Directory in Less Than 2 Hours](https://youtu.be/9oiEOYFe6PI)
